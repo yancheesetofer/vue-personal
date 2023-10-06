@@ -6,10 +6,10 @@
     >
       SWE Intern
       <a
-        href="https://www.asyx.com"
+        href="https://axcel.partners"
         target="_blank"
         class="text-white py-1 px-2 ms-2 rounded-md bg-blue-600"
-        >@ASYX International</a
+        >Axcel Partners</a
       >
     </div>
     <div class="it-icons">

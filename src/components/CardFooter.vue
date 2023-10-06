@@ -9,7 +9,7 @@
         href="https://axcel.partners"
         target="_blank"
         class="text-white py-1 px-2 ms-2 rounded-md bg-blue-600"
-        >Axcel Partners</a
+        >@Axcel Partners</a
       >
     </div>
     <div class="it-icons">

@@ -4,7 +4,7 @@
     <div
       class="text-center my-4 dark:text-white flex items-center justify-center"
     >
-      SWE Intern
+      Remote Software Engineer
       <a
         href="https://axcel.partners"
         target="_blank"

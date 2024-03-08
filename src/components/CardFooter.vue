@@ -21,7 +21,7 @@
           ><font-awesome-icon icon="fa-brands fa-linkedin"
         /></a>
         <a
-          href="https://www.instagram.com/yanchristofers/"
+          href="https://www.instagram.com/silalahiyan/"
           target="_blank"
           class="m-1 p-1 text-gray-600 text-2xl hover:text-blue-600 dark:text-gray-400"
           ><font-awesome-icon icon="fa-brands fa-instagram"
